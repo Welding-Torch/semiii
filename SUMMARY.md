@@ -9,6 +9,7 @@
   * [Flood Fill Algorithm](computer-graphics/flood-fill-algorithm.md)
   * [Liang Barsky Algorithm](computer-graphics/liang-barsky-algorithm.md)
   * [Bezier Curve](computer-graphics/bezier-curve.md)
+* [](liang-barsky.c.md)
 * [Data Structures](data-structures/README.md)
   * [Stack ADT](data-structures/stack-adt.md)
 * [Discrete Strctures Graph Theory](discrete-strctures-graph-theory/README.md)

@@ -1,31 +1,3 @@
-# Liang Barsky Algorithm
-
-## Write Up
-
-<div>
-
-<figure><img src="../.gitbook/assets/image-1.jpeg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image-2.jpeg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image-3.jpeg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image-4.jpeg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image-5.jpeg" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-## Code
-
 ```c
 #include<stdio.h>
 #include<graphics.h>
@@ -112,7 +84,3 @@ int main()
 	return 0;
 }
 ```
-
-## Output
-
-<figure><img src="../.gitbook/assets/Screenshot (2305).png" alt=""><figcaption></figcaption></figure>

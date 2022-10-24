@@ -1,5 +1,5 @@
 ---
-description: TurboC
+description: Run this in TurboC
 ---
 
 # Bezier Curve
