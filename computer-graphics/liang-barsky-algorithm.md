@@ -8,19 +8,19 @@
 
  
 
-<figure><img src="../.gitbook/assets/image-2.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-2 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image-3.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-3 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image-4.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-4 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image-5.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-5 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
